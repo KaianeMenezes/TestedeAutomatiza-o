@@ -1,2 +1,2 @@
-# TestedeAutomatiza-o
+# TestedeAutomatizaçao
 Automatização de cadastro de itens
